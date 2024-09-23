@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: lightcoral;
+}
+.section {
+    background-color: pink;
+    border-radius: 30px;
+    border: 2px solid black;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+button, input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+}
